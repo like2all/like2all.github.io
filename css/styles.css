@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    display: flex;
+    background: #f5f5dc;
+    min-height: 100vh;
+}
+
+#welcome_page {
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+}
+
+#welcome_page button {
+    margin: 0 auto;
+}
+
+#liked {
+    flex-direction: column;
+    align-items: center;
+}
+#liked h3 {
+    margin-bottom: 0;
+}
+
+#liked li {
+    margin: 5px 0;
+}

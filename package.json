@@ -1,0 +1,14 @@
+{
+  "name": "like2all",
+  "version": "1.0.0",
+  "description": "like 2 all",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kerim Berdimyradov",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
